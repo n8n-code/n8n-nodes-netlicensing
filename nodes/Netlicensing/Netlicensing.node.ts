@@ -11,14 +11,14 @@ import { utilityDescription } from './resources/utility';
 
 export class Netlicensing implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'netlicensing',
+		displayName: 'Netlicensing',
 		name: 'N8nDevNetlicensing',
 		icon: { light: 'file:./netlicensing.png', dark: 'file:./netlicensing.dark.png' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
 		description: 'Labs64 NetLicensing RESTful API gives you access to NetLicensing’s core features.Authentication..',
-		defaults: { name: 'netlicensing' },
+		defaults: { name: 'Netlicensing' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],

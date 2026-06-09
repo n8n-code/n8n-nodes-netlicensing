@@ -53,17 +53,99 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Product | Get list products, Post create product, Delete product, Get product, Post update product |
-| Product Module | Get list product modules, Post create product module, Delete product module, Get product module, Post update product module |
-| License Template | Get list license templates, Post create license template, Delete license template, Get license template, Post update license template |
-| Licensee | Get list licensees, Post create licensee, Delete licensee, Get licensee, Post update licensee, Post transfer licenses, Post validate licensee |
-| License | Get list licenses, Post create license, Delete license, Get license, Post update license |
-| Transaction | Get list transactions, Post create transaction, Get transaction, Post update transaction |
-| Token | Get list tokens, Post create token, Delete token, Get token |
-| Payment Method | Get list payment methods, Get payment method, Post update payment method |
-| Utility | Get list license types, Get list licensing models |
+<details>
+<summary><b>Product</b> (5 operations)</summary>
+
+- Get List Products
+- Post Create Product
+- Delete Product
+- Get Product
+- Post Update Product
+
+</details>
+
+<details>
+<summary><b>Product Module</b> (5 operations)</summary>
+
+- Get List Product Modules
+- Post Create Product Module
+- Delete Product Module
+- Get Product Module
+- Post Update Product Module
+
+</details>
+
+<details>
+<summary><b>License Template</b> (5 operations)</summary>
+
+- Get List License Templates
+- Post Create License Template
+- Delete License Template
+- Get License Template
+- Post Update License Template
+
+</details>
+
+<details>
+<summary><b>Licensee</b> (7 operations)</summary>
+
+- Get List Licensees
+- Post Create Licensee
+- Delete Licensee
+- Get Licensee
+- Post Update Licensee
+- Post Transfer Licenses
+- Post Validate Licensee
+
+</details>
+
+<details>
+<summary><b>License</b> (5 operations)</summary>
+
+- Get List Licenses
+- Post Create License
+- Delete License
+- Get License
+- Post Update License
+
+</details>
+
+<details>
+<summary><b>Transaction</b> (4 operations)</summary>
+
+- Get List Transactions
+- Post Create Transaction
+- Get Transaction
+- Post Update Transaction
+
+</details>
+
+<details>
+<summary><b>Token</b> (4 operations)</summary>
+
+- Get List Tokens
+- Post Create token
+- Delete token
+- Get token
+
+</details>
+
+<details>
+<summary><b>Payment Method</b> (3 operations)</summary>
+
+- Get List Payment Methods
+- Get Payment Method
+- Post Update Payment Method
+
+</details>
+
+<details>
+<summary><b>Utility</b> (2 operations)</summary>
+
+- Get List License Types
+- Get List Licensing Models
+
+</details>
 
 ---
 

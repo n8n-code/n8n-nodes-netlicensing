@@ -8,7 +8,7 @@ import type {
 export class NetlicensingApi implements ICredentialType {
 	name = 'N8nDevNetlicensingApi';
 
-	displayName = 'netlicensing API';
+	displayName = 'Netlicensing API';
 
 	icon: Icon = { light: 'file:../nodes/Netlicensing/netlicensing.png', dark: 'file:../nodes/Netlicensing/netlicensing.dark.png' };
 
@@ -22,7 +22,7 @@ export class NetlicensingApi implements ICredentialType {
 			default: 'https://go.netlicensing.io/core/v2/rest',
 			required: true,
 			placeholder: 'https://go.netlicensing.io/core/v2/rest',
-			description: 'The base URL of your netlicensing API server',
+			description: 'The base URL of your Netlicensing API server',
 		},
 		{
 			displayName: 'API Key',
