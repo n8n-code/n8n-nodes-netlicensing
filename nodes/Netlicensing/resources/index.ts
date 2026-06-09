@@ -1,0 +1,9 @@
+export { productDescription } from './product';
+export { productModuleDescription } from './product-module';
+export { licenseTemplateDescription } from './license-template';
+export { licenseeDescription } from './licensee';
+export { licenseDescription } from './license';
+export { transactionDescription } from './transaction';
+export { tokenDescription } from './token';
+export { paymentMethodDescription } from './payment-method';
+export { utilityDescription } from './utility';
